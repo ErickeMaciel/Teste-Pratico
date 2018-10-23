@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/Git/Projeto/Build.apk
+D:/Git/Projeto/Teste-Pratico/Build.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
